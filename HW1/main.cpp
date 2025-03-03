@@ -17,7 +17,10 @@ int find_k(double x)
     {
         return 1e+6;
     }
-    return x / ( exp( x * (1e-6)) - 1 ) + 1;
+    else
+    {
+        return x / ( exp( x * (1e-6)) - 1 ) + 1;
+    }
 }
 
 double get_Summation(double x)

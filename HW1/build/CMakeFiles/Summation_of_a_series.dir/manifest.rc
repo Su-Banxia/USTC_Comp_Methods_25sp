@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Code/Courses/Computational_Methods/HW1/build/CMakeFiles/Summation_of_a_series.dir/embed.manifest"

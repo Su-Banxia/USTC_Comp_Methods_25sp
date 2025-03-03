@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Code/Courses/Computational_Methods/HW1/build",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1443~1.348\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -MDd -Zi /FoCMakeFiles\\Summation_of_a_series.dir\\main.cpp.obj /FdCMakeFiles\\Summation_of_a_series.dir\\ /FS -c C:\\Code\\Courses\\Computational_Methods\\HW1\\main.cpp",
+  "file": "C:\\Code\\Courses\\Computational_Methods\\HW1\\main.cpp",
+  "output": "CMakeFiles\\Summation_of_a_series.dir\\main.cpp.obj"
+}
+]
